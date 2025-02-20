@@ -22,4 +22,5 @@ Virtual Environment (.venv) - Isolated dependencies
 
 ## Run the test
 CMD : python -m pytest -s -v -m "sanity" --html=Reports/report.html testCases/ --browser chrome
-Or Double click on the run.bat file.
+
+Or double click on the run.bat file.
